@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/14 22:44:41.000.653,=C:\Users\cassi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 03:45:55.000.685,C:\Users\cassi\Desktop\Tarefas\backend\TarefasBackEnd.dproj=C:\Users\cassi\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/01/10 03:48:16.000.107,=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 03:48:40.000.266,C:\Users\cassi\Desktop\Tarefas\backend\Controller\Controller.Users.pas=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 03:49:21.000.348,=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 03:49:41.000.639,C:\Users\cassi\Desktop\Tarefas\backend\Service\Service.Users.pas=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 03:50:19.000.459,=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 03:50:34.000.793,C:\Users\cassi\Desktop\Tarefas\backend\DAO\DAO.Database.pas=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 04:14:21.000.970,=C:\Users\cassi\Desktop\Tarefas\backend\Service\Service.Users.pas</Transaction>
+    <Transaction>2025/01/10 04:14:29.000.442,=C:\Users\cassi\Desktop\Tarefas\backend\DAO\DAO.Database.pas</Transaction>
+    <Transaction>2025/01/10 04:16:06.000.903,=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 04:16:49.000.571,=C:\Users\cassi\Desktop\Tarefas\backend\Controller\Controller.Users.pas</Transaction>
+    <Transaction>2025/01/10 04:18:51.000.325,=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 04:19:11.000.861,C:\Users\cassi\Desktop\Tarefas\backend\Backend.pas=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 04:19:56.000.111,C:\Users\cassi\Desktop\Tarefas\backend\Backend.Application.Application=C:\Users\cassi\Desktop\Tarefas\backend\Backend.Application</Transaction>
+    <Transaction>2025/01/10 04:22:36.000.515,=C:\Users\cassi\Desktop\Tarefas\backend\Service\Service.Users.pas</Transaction>
+    <Transaction>2025/01/10 04:22:43.000.490,=C:\Users\cassi\Desktop\Tarefas\backend\Controller\Controller.Users.pas</Transaction>
+    <Transaction>2025/01/10 04:22:54.000.177,=C:\Users\cassi\Desktop\Tarefas\backend\DAO\DAO.Database.pas</Transaction>
+    <Transaction>2025/01/10 11:21:36.025,=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 11:26:45.016,C:\Users\cassi\Desktop\Tarefas\backend\Controller\Controller.Task.pas=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 11:29:20.596,=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 11:29:35.323,C:\Users\cassi\Desktop\Tarefas\backend\Service\Service.Task.pas=C:\Users\cassi\Desktop\Tarefas\backend\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

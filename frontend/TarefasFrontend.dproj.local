@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/14 22:44:41.000.653,=C:\Users\cassi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 04:24:09.497,=C:\Users\cassi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 04:32:06.674,C:\Users\cassi\Desktop\Tarefas\frontend\View.Login.pas=C:\Users\cassi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 04:32:06.674,C:\Users\cassi\Desktop\Tarefas\frontend\View.Login.dfm=C:\Users\cassi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/01/10 04:32:32.223,C:\Users\cassi\Desktop\Tarefas\frontend\TarefasFrontend.dproj=C:\Users\cassi\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/01/10 04:32:46.210,C:\Users\cassi\Desktop\Tarefas\frontend\View\View.Login.pas=C:\Users\cassi\Desktop\Tarefas\frontend\View.Login.pas</Transaction>
+    <Transaction>2025/01/10 04:32:46.210,C:\Users\cassi\Desktop\Tarefas\frontend\View\View.Login.dfm=C:\Users\cassi\Desktop\Tarefas\frontend\View.Login.dfm</Transaction>
+    <Transaction>2025/01/10 10:37:49.410,=C:\Users\cassi\Desktop\Tarefas\frontend\View\View.Principal.pas</Transaction>
+    <Transaction>2025/01/10 12:13:04.591,=C:\Users\cassi\Desktop\Tarefas\frontend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 12:13:50.193,C:\Users\cassi\Desktop\Tarefas\frontend\Controller\Controller.Task.pas=C:\Users\cassi\Desktop\Tarefas\frontend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 12:15:24.156,=C:\Users\cassi\Desktop\Tarefas\frontend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 12:15:54.938,C:\Users\cassi\Desktop\Tarefas\frontend\Service\Service.Task.pas=C:\Users\cassi\Desktop\Tarefas\frontend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 12:17:06.392,=C:\Users\cassi\Desktop\Tarefas\frontend\View\View.Cadastro.Tarefa.pas</Transaction>
+    <Transaction>2025/01/10 14:58:52.304,=C:\Users\cassi\Desktop\Tarefas\frontend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 14:59:02.706,C:\Users\cassi\Desktop\Tarefas\frontend\Service\TaskServiceFactory.pas=C:\Users\cassi\Desktop\Tarefas\frontend\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 14:59:54.051,C:\Users\cassi\Desktop\Tarefas\frontend\Service\Service.Task.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

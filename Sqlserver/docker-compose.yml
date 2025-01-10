@@ -1,0 +1,16 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      MSSQL_SA_PASSWORD: "SqlServer2022!"
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Developer"
+      MSSQL_BACKUP_DIR: /var/opt/mssql/backup
+      MSSQL_DATA_DIR: /var/opt/mssql/data
+      MSSQL_LOG_DIR: /var/opt/mssql/log
+    volumes:
+      - ./data:/var/opt/mssql/data
+      - ./bkp:/var/opt/mssql/backup
+      - ./log:/var/opt/mssql/log
+    ports:
+      - "1433:1433"

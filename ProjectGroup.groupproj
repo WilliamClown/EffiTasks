@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{A5813275-AE3D-4B75-9544-F1801FA6AC5D}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="frontend\TarefasFrontend.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="backend\TarefasBackEnd.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="TarefasFrontend">
+        <MSBuild Projects="frontend\TarefasFrontend.dproj"/>
+    </Target>
+    <Target Name="TarefasFrontend:Clean">
+        <MSBuild Projects="frontend\TarefasFrontend.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TarefasFrontend:Make">
+        <MSBuild Projects="frontend\TarefasFrontend.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="TarefasBackEnd">
+        <MSBuild Projects="backend\TarefasBackEnd.dproj"/>
+    </Target>
+    <Target Name="TarefasBackEnd:Clean">
+        <MSBuild Projects="backend\TarefasBackEnd.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TarefasBackEnd:Make">
+        <MSBuild Projects="backend\TarefasBackEnd.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="TarefasFrontend;TarefasBackEnd"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="TarefasFrontend:Clean;TarefasBackEnd:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="TarefasFrontend:Make;TarefasBackEnd:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
